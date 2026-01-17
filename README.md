@@ -6,4 +6,4 @@ Discord username claimer, claims usernames on discord fully automated, with a bu
 
 contact: @.bas on discord
 price: 10$
-dm for more information
+dm for more information, or a showcase
